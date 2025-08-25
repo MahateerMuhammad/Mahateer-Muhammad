@@ -69,26 +69,7 @@ I'm a passionate **Full Stack Developer** and **Mobile App Developer** with a lo
   <img src="https://github-profile-trophy.vercel.app/?username=MahateerMuhammad&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" />
 </div>
 
-## 🔥 Featured Projects
 
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 Featured Repository 1
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MahateerMuhammad&repo=your-main-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)](https://github.com/MahateerMuhammad/your-main-project)
-
-</td>
-<td width="50%">
-
-### 🔥 Featured Repository 2
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MahateerMuhammad&repo=another-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)](https://github.com/MahateerMuhammad/another-project)
-
-</td>
-</tr>
-</table>
-</div>
 
 ## 💼 What I'm Working On
 
@@ -137,9 +118,6 @@ Other     ██░░░░░░░░░░░░░░░░░░░░░�
   </a>
   <a href="https://www.instagram.com/__mahateer__?igsh=MTZvcG96MXZkbzZsbQ==&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
